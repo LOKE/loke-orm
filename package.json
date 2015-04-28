@@ -1,0 +1,32 @@
+{
+  "name": "loke-orm",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Den Williams",
+  "license": "MIT",
+  "dependencies": {
+    "bookshelf": "^0.7.9",
+    "knex": "^0.7.6",
+    "mysql": "^2.6.2",
+    "q": "^1.3.0"
+  },
+  "description": "Custom ORM based on Bookshelf / Knex",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LOKE/loke-orm.git"
+  },
+  "keywords": [
+    "orm",
+    "bookshelf",
+    "knex",
+    "loke"
+  ],
+  "bugs": {
+    "url": "https://github.com/LOKE/loke-orm/issues"
+  },
+  "homepage": "https://github.com/LOKE/loke-orm"
+}
