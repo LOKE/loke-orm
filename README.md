@@ -4,7 +4,7 @@ Custom ORM based on Bookshelf / Knex, mostly to fix some elements of Bookshelf w
 
 Designed to work with MySQL and a Unit or Work pattern.
 
-*Currently in early alpha stages.*
+*Currently in early alpha stages. NOTE: many-to-many relations no supported yet.*
 
 ## Overview
 
